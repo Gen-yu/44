@@ -1,0 +1,29 @@
+#a{
+    width: 100px;
+    height:100px;
+    background-color: slateblue;
+    /*position: relative;*/
+    float: left;
+    
+
+}
+#b{
+    width: 100px;
+    height:100px;
+    background-color: red;
+    /*position: absolute;*/
+    /*left: 200px;*/
+    /*z-index: 4;*/
+    float: left;
+}
+#c{
+    width: 100px;
+    height:100px;
+    background-color: #FF00FF;
+    /*position: fixed;*/
+    float: left;
+}
+*{
+    border: 0;
+    margin: 0 0;
+}
